@@ -1,8 +1,8 @@
-# mycode
+OA# mycode
 tracking my code
 # mycode (Christine's Project)
 
-My dog Archie is going to training classes and I want to keep track of his progress. 
+My dog Archie is going to training classes and I want to keep track of his progress. Wanting to learn how to version control projects with git.  
 
 ## Getting Started
 
